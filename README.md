@@ -5,7 +5,7 @@ Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://heroku.com/deploy?template=https://github.com/Alinshan/Damu)
+[![Deploy](https://telegra.ph/file/1866efb1696e6854042bc.jpg)](https://heroku.com/deploy?template=https://github.com/Alinshan/Damu)
 
 - [x] Auto Filter
 - [x] Manuel Filter
